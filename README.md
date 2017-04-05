@@ -1,1 +1,1 @@
- <h1><font color="red"> First Mod: ShieldTech </font></h1>
+ <h1>First Mod: ShieldTech</h1>
